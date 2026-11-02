@@ -1,0 +1,27 @@
+{
+    "include": [
+        "src/**/*.py",
+        "scripts/**/*.py",
+        "notebooks/**/*.py"
+    ],
+    "exclude": [
+        "**/__pycache__",
+        "**/*.pyc",
+        "data",
+        "logs",
+        "plots",
+        "deliverables",
+        "papers",
+        "notebooks/_plot_helpers_backup*"
+    ],
+    "extraPaths": [
+        "."
+    ],
+    "typeCheckingMode": "basic",
+    "pythonVersion": "3.10",
+    "pythonPlatform": "Linux",
+    "reportMissingImports": "warning",
+    "reportMissingModuleSource": "none",
+    "reportUnusedImport": "warning",
+    "reportUnusedVariable": "warning"
+}
