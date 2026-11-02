@@ -174,10 +174,8 @@ publications.
   **132**, 100402 (2024).
   [doi:10.1103/PhysRevLett.132.100402](https://doi.org/10.1103/PhysRevLett.132.100402)
 
-- **Tensor Jump Method**: Sander, Fröhlich, Eigel, Eisert, Gel,
-  Hintermüller, Milbradt, Wille, and Mendl, *Large-scale stochastic
-  simulation of open quantum systems*, Nature Communications **16**,
-  11074 (2025).
+- **Tensor Jump Method**: Sander, Fröhlich, Eigel, Eisert, Gelß, Hintermüller, Milbradt, Wille, and Mendl, *Large-scale stochastic simulation of open quantum systems*, Nature Communications **16**, 11074 (2025).
+  [doi:10.1038/s41467-025-66846-x](https://doi.org/10.1038/s41467-025-66846-x)
 
 - **Monte Carlo wave-function method (foundational)**: Mølmer,
   Castin, and Dalibard, *Monte Carlo wave-function method in
@@ -186,11 +184,8 @@ publications.
 
 **Echo protocols**
 
-- **Generalized OAT echo protocols (symmetric)**: Schulte,
-  Martinez-Lahuerta, Scharnagl, and Hammerer, *Ramsey
-  interferometry with generalized one-axis twisting echoes*,
-  Quantum **4**, 268 (2020).
-  [doi:10.22331/q-2020-03-26-268](https://doi.org/10.22331/q-2020-03-26-268)
+- **Generalized OAT echo protocols (symmetric)**: Schulte, Martínez-Lahuerta, Scharnagl, and Hammerer, *Ramsey interferometry with generalized one-axis twisting echoes*, Quantum **4**, 268 (2020).
+  [doi:10.22331/q-2020-05-15-268](https://doi.org/10.22331/q-2020-05-15-268)
 
 - **Three-axis extension**: Scharnagl, Kielinski, and Hammerer,
   *Optimal Ramsey interferometry with echo protocols based on one-
@@ -213,10 +208,8 @@ publications.
 
 **Software**
 
-- **TeNPy**: Hauschild and Pollmann, *Efficient numerical
-  simulations with tensor networks: Tensor Network Python (TeNPy)*,
-  SciPost Phys. Lect. Notes **18** (2019).
-  [doi:10.21468/SciPostPhysLectNotes.18](https://doi.org/10.21468/SciPostPhysLectNotes.18)
+- **TeNPy**: Hauschild and Pollmann, *Efficient numerical simulations with tensor networks: Tensor Network Python (TeNPy)*, SciPost Phys. Lect. Notes **5** (2018).
+  [doi:10.21468/SciPostPhysLectNotes.5](https://doi.org/10.21468/SciPostPhysLectNotes.5)
 
 ## License
 
