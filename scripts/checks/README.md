@@ -29,5 +29,4 @@ Individual scripts:
 - `preflight.py` — ten-point manual inspection before production
 - `test_production_ranges.py` — structural test of the pipeline
 - `test_stage2b_dispatch.py` — dispatch regression
-- `compare_mu1mu2_pipeline.py` — comparison against reference data
 - `diag_exact_M.py` — single-point diagnostic
