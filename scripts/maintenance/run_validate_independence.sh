@@ -8,7 +8,7 @@
 #SBATCH --output=logs/val_indep_%j.log
 #SBATCH --error=logs/val_indep_%j.err
 #
-# Step 1.1 independence and algebra checks. Single job, one task.
+# Independence and algebra checks. Single job, one task.
 # Runs dt and svd_min independence plus the [S_x, S_y] = i S_z
 # algebra check at N=16, alpha=1, chi=32 (chi=32 is 2x the
 # chi_conv=8 that we already measured at N=8; scaling predicts
@@ -35,7 +35,7 @@ import sys
 sys.path.insert(0, '.')
 import scripts.checks.validate_1d_closed as v
 
-# Override the module constants to the appropriate Step 1.1 test point.
+# Override the module constants to the appropriate test point.
 v.INDEP_N = 16
 v.INDEP_ALPHA = 1.0
 v.INDEP_CHI = 32

@@ -9,7 +9,7 @@
 #SBATCH --output=logs/val_1d_closed_%A_%a.log
 #SBATCH --error=logs/val_1d_closed_%A_%a.err
 #
-# Step 1.1 validation array. Each array task runs the full grid=20
+# Validation array. Each array task runs the full grid=20
 # chi-scan for one (alpha, N) tuple.
 #
 # Task id -> (alpha, N):
