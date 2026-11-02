@@ -2,8 +2,9 @@
 
 Validation suite. Run all of them:
 
+```
 python3 scripts/checks/run_all_checks.py
-text
+```
 
 
 Individual scripts:

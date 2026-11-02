@@ -62,10 +62,11 @@ time to time.
 
 ## Install
 
+```
 conda create -n tpqm python=3.10
 conda activate tpqm
 pip install -r requirements.txt
-text
+```
 
 
 ## Quickstart
@@ -74,10 +75,11 @@ One point of the 1D closed-system echo landscape at $N=8$,
 $\alpha=3$, $\chi_{\max}=32$, at the OUT protocol point
 $(\mu_1,\mu_2)=(\pi/8,\pi/4)$:
 
+```
 python3 scripts/workers/closed_1d/powerlaw_echo_worker.py
 --N 8 --alpha 3.0 --chi_max 32
 --mu1 0.3927 --mu2 0.7854
-text
+```
 
 
 The worker writes a single `.npy` file to `data/powerlaw_echo_pts/`
@@ -85,8 +87,9 @@ and prints the SNR to stdout.
 
 Check that the MPO matches its analytic Hamiltonian:
 
+```
 python3 scripts/checks/check_models.py
-text
+```
 
 
 ## Conventions

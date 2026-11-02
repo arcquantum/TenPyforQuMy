@@ -77,9 +77,10 @@ produce the same SNR:
 python3 scripts/workers/closed_1d/powerlaw_echo_worker.py
 --N 8 --alpha 3.0 --chi_max 32 --mu 1.5708 --nu -1.5708
 
+```
 python3 scripts/workers/closed_1d/powerlaw_echo_worker.py
 --N 8 --alpha 3.0 --chi_max 32 --mu1 0.3927 --mu2 0.7854
-text
+```
 
 
 ## Output filenames

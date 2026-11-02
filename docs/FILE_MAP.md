@@ -55,8 +55,9 @@ live in:
 
 `scripts/checks/` contains the validation suite. Run the full set:
 
+```
 python3 scripts/checks/run_all_checks.py
-text
+```
 
 
 Individual highlights:
