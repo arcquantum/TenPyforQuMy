@@ -35,7 +35,7 @@ resolution is uncertain and you want the sharp-point data to decide.
 
 Convention
 ----------
-All coordinates are in the Vineesha convention (mu1, mu2) with
+All coordinates are in the (mu1, mu2) convention with
 mu1 in [0, pi] and mu2 in [0, 2*pi]. The CONVENTION constant below
 controls this. All calls to worker_command, native_output_path,
 grid_pilot_filename, landscape_grid_filename, and the pilot data

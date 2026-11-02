@@ -3,7 +3,7 @@
 scripts/maintenance/submit_scharnagl_stage1.py
 Stage 1 Scharnagl three-axis scan driver.
 
-Convention: mu1, mu2 (Vineesha). Full range by default:
+Convention: mu1, mu2. Full range by default:
   mu1 in [0, pi], mu2 in [0, 2 pi], theta_k in [0, pi], phi_k in [0, 2 pi).
 
 Range control
